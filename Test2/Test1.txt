@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asererretay hello world test2
+=======
+asererretay hello world hhgghgh
+>>>>>>> bdc9a31a0d64dc656d12a3ea2c3bf702a977a90a
