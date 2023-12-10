@@ -25,4 +25,4 @@ jobs:
         pip install pandas
 
     - name: Run script
-      run: python .github/scripts/check_duplicates.py
+      run: python .github/workflows/check_duplicates.py
